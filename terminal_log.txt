@@ -1,0 +1,29 @@
+    1  pwd
+    2  clear
+    3  mkdir projects
+    4  cd projects
+    5  mkdir week1 week2
+    6  ls
+    7  cd week1
+    8  touch hello.txt
+    9  ls
+   10  cd ..
+   11  cp week1/hello.txt week2/hello_copy.txt
+   12  ls week2
+   13  rm week1/hello.txt
+   14  ls week1
+   15  cd week1
+   16  vim about_me.txt
+   17  sudo apt install vim
+   18  vim about_me.txt
+   19  ls
+   20  cd ..
+   21  git init
+   22  touch README.md
+   23  vim README.md
+   24  git add .
+   25  git commit -m "Completed command line basics task"
+   26  git remote add origin https://github.com/RosemaryEdem/command-line-basics.git
+   27  git branch -M main
+   28  git push -u origin main
+   29  history > terminal_log.txt
