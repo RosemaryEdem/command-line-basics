@@ -18,7 +18,7 @@
 - ls: to list directory contents
 
 ## Output Verification
-I Used ls command at each step to confirm file and folder creation.
+I used ls command at each step to confirm file and folder creation.
 
 
 
