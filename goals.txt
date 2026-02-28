@@ -1,0 +1,5 @@
+Rosemary's Programming Goals:
+- Master Git for infrastructure as code(IAC).
+- Build automated CI/CD pipelines.
+- Design scalable and secure cloud architectures.
+- Automate cloud resource provisioning.
